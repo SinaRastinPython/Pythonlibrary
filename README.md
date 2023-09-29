@@ -1,9 +1,6 @@
 # Pythonlibrary
 Library Management System
 Library
--------------------------------------------------------------
-'''
-
 
 class Library:
 
