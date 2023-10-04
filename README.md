@@ -1,7 +1,6 @@
 # Pythonlibrary
 Library Management System
 Library
-
 class Library:
 
    def __init__(self, books):
